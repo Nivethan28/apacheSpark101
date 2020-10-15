@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T08:59:23.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="Bq8aIeqhtp3kMLFV0PaE" type="github"><diagram id="8_ixgKlyXAo2f5taqkXE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-15T04:08:45.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="z6relbAMKjJkCVoCNfK7" version="13.8.0" type="github">
+  <diagram id="8_ixgKlyXAo2f5taqkXE" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-1" target="0LhOFg1M8PxsQavpHyHC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-1" value="&lt;b&gt;START&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-2" target="0LhOFg1M8PxsQavpHyHC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="125" />
+              <mxPoint x="500" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-2" target="0LhOFg1M8PxsQavpHyHC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-2" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;RFID Reader waits for tag&lt;/b&gt;" style="rhombus;html=1;fontSize=13;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="116.25" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-5" value="&lt;b&gt;NO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="505" y="70" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-6" target="0LhOFg1M8PxsQavpHyHC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-6" value="RFID Reader reads 12 byte tag information" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="332.19" y="200" width="171.88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-8" value="&lt;b&gt;YES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="414" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-9" target="0LhOFg1M8PxsQavpHyHC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-9" target="0LhOFg1M8PxsQavpHyHC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-9" value="Sensor senses the required information (air, CO, temp, Pr, Humi, Li Int)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="270.25" y="270" width="295.77" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-11" target="0LhOFg1M8PxsQavpHyHC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-11" value="Microcontroller reads &amp;amp; stores the RFID Reader and sensors values" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="277.18" y="350" width="281.88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-13" target="0LhOFg1M8PxsQavpHyHC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-13" value="Server monitors and stores the values in DB" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="270.25" y="420" width="295.77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="710" />
+              <mxPoint x="358" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-15" value="Display the RFID and sensors values on LCD or&amp;nbsp; Display Panel" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-18" target="0LhOFg1M8PxsQavpHyHC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-18" target="0LhOFg1M8PxsQavpHyHC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-18" value="If sensors value exceeds the reference value" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="341.72" y="475" width="152.82" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-20" value="Alert the User (Switch Off, Buzzer, Message, Light, Warning)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="199.05" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="609" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-22" value="&lt;b&gt;YES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="0LhOFg1M8PxsQavpHyHC-23" target="0LhOFg1M8PxsQavpHyHC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-23" value="Perform Analysis in Application Layer (Insight and Graph generation)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="262.19" y="640" width="311.88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-25" value="&lt;b&gt;NO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="384" y="600" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0LhOFg1M8PxsQavpHyHC-26" value="&lt;b&gt;STOP&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="358.13" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
